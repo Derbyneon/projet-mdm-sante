@@ -1,6 +1,7 @@
-﻿medecin_id_rdv,nom_complet,specialite,telephone_cabinet,email_pro
-MED-RDV-001,Dr. Marie Dubois,Cardiologie,+33 4 95 38 70 56,marie.dubois@clinique-rdv.fr
-MED-RDV-002,Dr. Jean Martin,Pédiatrie,07 49 74 85 24,jean.martin@clinique-rdv.fr
-MED-RDV-003,Dr. Sophie Bernard,Radiologie,+33 (0)2 46 93 74 54,sophie.bernard@clinique-rdv.fr
-MED-RDV-004,Dr. Pierre Petit,Chirurgie,+33 2 46 76 10 43,pierre.petit@clinique-rdv.fr
-MED-RDV-005,Dr. Émilie Leroy,Gynécologie,+33 (0)2 99 85 24 65,émilie.leroy@clinique-rdv.fr
+﻿medecin_id_rdv,nom_complet,specialite,telephone,email
+MED-RDV-001,Dr. Marie Dubois,Cardiologie,+33 (0)5 64 60 68 21,marie.dubois@clinique-rdv.fr
+MED-RDV-002,Dr. Jean Martin,Pédiatrie,+33 4 69 54 30 81,jean.martin@clinique-rdv.fr
+MED-RDV-003,Dr. Sophie Bernard,Radiologie,0457838963,sophie.bernard@clinique-rdv.fr
+MED-RDV-004,Dr. Pierre Petit,Chirurgie,+33 (0)5 17 34 08 88,pierre.petit@clinique-rdv.fr
+MED-RDV-005,Dr. Émilie Leroy,Gynécologie,04 74 89 12 87,émilie.leroy@clinique-rdv.fr
+MED-RDV-006,Dr. Laurent Moreau,Urgences,0238565356,laurent.moreau@clinique-rdv.fr

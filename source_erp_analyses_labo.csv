@@ -1,0 +1,284 @@
+﻿analyse_id,patient_id_erp,num_dossier,type_analyse,date_prelevement,date_resultat,prescripteur_nom,service_realisation,urgent
+LAB-0000001,ERP-P-00001,DOSS-192055,Bilan lipidique complet,13-01-2025,15-01-2025,Bernard,Laboratoire Microbiologie,Non
+LAB-0000002,ERP-P-00001,DOSS-192055,TSH (thyroïde),15-07-2025,17-07-2025,Martin,Laboratoire Hématologie,Oui
+LAB-0000003,ERP-P-00001,DOSS-192055,Transaminases (ALAT/ASAT),12-11-2024,16-11-2024,Leroy,Laboratoire Biochimie,Oui
+LAB-0000004,ERP-P-00001,DOSS-192055,Créatinine sanguine,10-09-2025,14-09-2025,Moreau,Laboratoire Microbiologie,NON
+LAB-0000005,ERP-P-00001,DOSS-192055,CRP (inflammation),27-05-2024,31-05-2024,Leroy,Laboratoire Biochimie,Non
+LAB-0000006,ERP-P-00002,DOSS-432427,CRP (inflammation),07-07-2025,12-07-2025,Dubois,Laboratoire Biochimie,Non
+LAB-0000007,ERP-P-00002,DOSS-432427,Bilan lipidique complet,09-01-2025,11-01-2025,Bernard,Laboratoire Microbiologie,Non
+LAB-0000008,ERP-P-00002,DOSS-432427,Créatinine sanguine,27-11-2024,28-11-2024,Bernard,Laboratoire Biochimie,OUI
+LAB-0000009,ERP-P-00003,DOSS-231250,Bilan lipidique complet,20-03-2024,22-03-2024,Moreau,Laboratoire Microbiologie,OUI
+LAB-0000010,ERP-P-00003,DOSS-231250,Numération Formule Sanguine,18-04-2024,19-04-2024,Dubois,Laboratoire Biochimie,OUI
+LAB-0000011,ERP-P-00003,DOSS-231250,TSH (thyroïde),20-01-2024,25-01-2024,Petit,Laboratoire Microbiologie,Oui
+LAB-0000012,ERP-P-00004,DOSS-622230,Hémoglobine glyquée (HbA1c),16-01-2025,17-01-2025,Moreau,Laboratoire Biochimie,Non
+LAB-0000013,ERP-P-00004,DOSS-622230,CRP (inflammation),23-08-2024,27-08-2024,Petit,Laboratoire Biochimie,OUI
+LAB-0000014,ERP-P-00004,DOSS-622230,Bilan lipidique complet,05-03-2024,08-03-2024,Moreau,Laboratoire Hématologie,OUI
+LAB-0000015,ERP-P-00004,DOSS-622230,Bilan lipidique complet,04-10-2024,07-10-2024,Leroy,Laboratoire Microbiologie,Oui
+LAB-0000016,ERP-P-00004,DOSS-622230,TSH (thyroïde),25-12-2024,29-12-2024,Dubois,Laboratoire Hématologie,NON
+LAB-0000017,ERP-P-00004,DOSS-622230,Bilan lipidique complet,08-03-2025,09-03-2025,Dubois,Laboratoire Hématologie,NON
+LAB-0000018,ERP-P-00004,DOSS-622230,CRP (inflammation),25-02-2024,27-02-2024,Martin,Laboratoire Hématologie,OUI
+LAB-0000019,ERP-P-00005,DOSS-299055,Numération Formule Sanguine,25-06-2024,26-06-2024,Petit,Laboratoire Microbiologie,NON
+LAB-0000020,ERP-P-00005,DOSS-299055,TSH (thyroïde),15-03-2025,20-03-2025,Bernard,Laboratoire Biochimie,Oui
+LAB-0000021,ERP-P-00005,DOSS-299055,Hémoglobine glyquée (HbA1c),01-02-2025,06-02-2025,Moreau,Laboratoire Microbiologie,NON
+LAB-0000022,ERP-P-00005,DOSS-299055,Numération Formule Sanguine,28-01-2025,29-01-2025,Petit,Laboratoire Biochimie,OUI
+LAB-0000023,ERP-P-00005,DOSS-299055,CRP (inflammation),07-11-2024,10-11-2024,Dubois,Laboratoire Hématologie,Oui
+LAB-0000024,ERP-P-00006,DOSS-697983,Créatinine sanguine,02-05-2024,07-05-2024,Moreau,Laboratoire Microbiologie,Oui
+LAB-0000025,ERP-P-00006,DOSS-697983,Glycémie à jeun,08-07-2025,12-07-2025,Bernard,Laboratoire Hématologie,OUI
+LAB-0000026,ERP-P-00006,DOSS-697983,TSH (thyroïde),22-06-2025,27-06-2025,Leroy,Laboratoire Hématologie,Oui
+LAB-0000027,ERP-P-00006,DOSS-697983,Numération Formule Sanguine,01-10-2025,03-10-2025,Moreau,Laboratoire Hématologie,NON
+LAB-0000028,ERP-P-00006,DOSS-697983,Hémoglobine glyquée (HbA1c),03-06-2024,05-06-2024,Leroy,Laboratoire Microbiologie,Non
+LAB-0000029,ERP-P-00006,DOSS-697983,Transaminases (ALAT/ASAT),16-12-2024,18-12-2024,Petit,Laboratoire Microbiologie,OUI
+LAB-0000030,ERP-P-00006,DOSS-697983,Transaminases (ALAT/ASAT),19-03-2024,24-03-2024,Leroy,Laboratoire Microbiologie,NON
+LAB-0000031,ERP-P-00006,DOSS-697983,Créatinine sanguine,22-11-2023,26-11-2023,Dubois,Laboratoire Hématologie,OUI
+LAB-0000032,ERP-P-00007,DOSS-806537,Hémoglobine glyquée (HbA1c),15-03-2024,18-03-2024,Moreau,Laboratoire Microbiologie,Non
+LAB-0000033,ERP-P-00008,DOSS-856442,TSH (thyroïde),18-06-2025,19-06-2025,Leroy,Laboratoire Microbiologie,Oui
+LAB-0000034,ERP-P-00008,DOSS-856442,Numération Formule Sanguine,05-05-2025,09-05-2025,Bernard,Laboratoire Hématologie,Non
+LAB-0000035,ERP-P-00008,DOSS-856442,TSH (thyroïde),20-09-2024,24-09-2024,Leroy,Laboratoire Microbiologie,NON
+LAB-0000036,ERP-P-00008,DOSS-856442,Bilan lipidique complet,14-09-2025,19-09-2025,Martin,Laboratoire Microbiologie,OUI
+LAB-0000037,ERP-P-00008,DOSS-856442,Hémoglobine glyquée (HbA1c),08-01-2024,13-01-2024,Petit,Laboratoire Hématologie,Non
+LAB-0000038,ERP-P-00008,DOSS-856442,Transaminases (ALAT/ASAT),03-08-2024,08-08-2024,Bernard,Laboratoire Microbiologie,OUI
+LAB-0000039,ERP-P-00008,DOSS-856442,Hémoglobine glyquée (HbA1c),02-03-2024,04-03-2024,Martin,Laboratoire Hématologie,OUI
+LAB-0000040,ERP-P-00009,DOSS-335790,Hémoglobine glyquée (HbA1c),27-12-2024,30-12-2024,Leroy,Laboratoire Microbiologie,OUI
+LAB-0000041,ERP-P-00009,DOSS-335790,Glycémie à jeun,26-01-2025,31-01-2025,Moreau,Laboratoire Microbiologie,NON
+LAB-0000042,ERP-P-00009,DOSS-335790,Transaminases (ALAT/ASAT),08-10-2024,10-10-2024,Bernard,Laboratoire Biochimie,OUI
+LAB-0000043,ERP-P-00009,DOSS-335790,Transaminases (ALAT/ASAT),28-08-2025,01-09-2025,Moreau,Laboratoire Hématologie,NON
+LAB-0000044,ERP-P-00009,DOSS-335790,TSH (thyroïde),11-04-2025,16-04-2025,Bernard,Laboratoire Microbiologie,OUI
+LAB-0000045,ERP-P-00009,DOSS-335790,Glycémie à jeun,29-06-2025,04-07-2025,Moreau,Laboratoire Microbiologie,Non
+LAB-0000046,ERP-P-00009,DOSS-335790,Numération Formule Sanguine,13-03-2025,18-03-2025,Martin,Laboratoire Microbiologie,Non
+LAB-0000047,ERP-P-00009,DOSS-335790,Glycémie à jeun,24-09-2025,28-09-2025,Bernard,Laboratoire Microbiologie,NON
+LAB-0000048,ERP-P-00010,DOSS-205428,TSH (thyroïde),16-07-2024,19-07-2024,Bernard,Laboratoire Hématologie,Oui
+LAB-0000049,ERP-P-00010,DOSS-205428,TSH (thyroïde),17-08-2025,22-08-2025,Moreau,Laboratoire Microbiologie,Oui
+LAB-0000050,ERP-P-00010,DOSS-205428,CRP (inflammation),21-05-2025,23-05-2025,Dubois,Laboratoire Hématologie,NON
+LAB-0000051,ERP-P-00010,DOSS-205428,Créatinine sanguine,10-05-2025,11-05-2025,Dubois,Laboratoire Hématologie,Oui
+LAB-0000052,ERP-P-00010,DOSS-205428,Créatinine sanguine,08-12-2024,12-12-2024,Moreau,Laboratoire Microbiologie,NON
+LAB-0000053,ERP-P-00010,DOSS-205428,Hémoglobine glyquée (HbA1c),02-07-2025,05-07-2025,Martin,Laboratoire Biochimie,OUI
+LAB-0000054,ERP-P-00010,DOSS-205428,Hémoglobine glyquée (HbA1c),03-06-2025,06-06-2025,Moreau,Laboratoire Biochimie,Oui
+LAB-0000055,ERP-P-00010,DOSS-205428,Créatinine sanguine,06-12-2024,11-12-2024,Moreau,Laboratoire Biochimie,Non
+LAB-0000056,ERP-P-00011,DOSS-740632,Bilan lipidique complet,11-05-2025,15-05-2025,Bernard,Laboratoire Biochimie,Oui
+LAB-0000057,ERP-P-00011,DOSS-740632,CRP (inflammation),22-02-2025,24-02-2025,Petit,Laboratoire Hématologie,OUI
+LAB-0000058,ERP-P-00012,DOSS-416613,Glycémie à jeun,14-09-2025,18-09-2025,Bernard,Laboratoire Biochimie,NON
+LAB-0000059,ERP-P-00012,DOSS-416613,Créatinine sanguine,15-12-2023,16-12-2023,Moreau,Laboratoire Hématologie,OUI
+LAB-0000060,ERP-P-00012,DOSS-416613,TSH (thyroïde),26-02-2024,28-02-2024,Martin,Laboratoire Hématologie,Non
+LAB-0000061,ERP-P-00012,DOSS-416613,Transaminases (ALAT/ASAT),08-08-2024,12-08-2024,Moreau,Laboratoire Microbiologie,NON
+LAB-0000062,ERP-P-00013,DOSS-894139,Hémoglobine glyquée (HbA1c),27-05-2024,01-06-2024,Moreau,Laboratoire Hématologie,Oui
+LAB-0000063,ERP-P-00013,DOSS-894139,Glycémie à jeun,18-04-2024,19-04-2024,Leroy,Laboratoire Microbiologie,Non
+LAB-0000064,ERP-P-00014,DOSS-700521,Hémoglobine glyquée (HbA1c),29-03-2024,30-03-2024,Leroy,Laboratoire Hématologie,Oui
+LAB-0000065,ERP-P-00014,DOSS-700521,Bilan lipidique complet,09-08-2024,14-08-2024,Petit,Laboratoire Hématologie,Oui
+LAB-0000066,ERP-P-00014,DOSS-700521,Hémoglobine glyquée (HbA1c),23-04-2024,26-04-2024,Moreau,Laboratoire Biochimie,NON
+LAB-0000067,ERP-P-00014,DOSS-700521,Numération Formule Sanguine,01-03-2025,03-03-2025,Leroy,Laboratoire Biochimie,Oui
+LAB-0000068,ERP-P-00015,DOSS-544278,Créatinine sanguine,15-10-2025,19-10-2025,Martin,Laboratoire Biochimie,NON
+LAB-0000069,ERP-P-00015,DOSS-544278,CRP (inflammation),29-10-2024,02-11-2024,Petit,Laboratoire Hématologie,Oui
+LAB-0000070,ERP-P-00015,DOSS-544278,Bilan lipidique complet,18-12-2023,21-12-2023,Dubois,Laboratoire Biochimie,NON
+LAB-0000071,ERP-P-00015,DOSS-544278,Bilan lipidique complet,24-05-2024,26-05-2024,Dubois,Laboratoire Biochimie,OUI
+LAB-0000072,ERP-P-00015,DOSS-544278,CRP (inflammation),30-07-2024,04-08-2024,Petit,Laboratoire Biochimie,Non
+LAB-0000073,ERP-P-00015,DOSS-544278,Transaminases (ALAT/ASAT),02-08-2024,04-08-2024,Bernard,Laboratoire Biochimie,Oui
+LAB-0000074,ERP-P-00015,DOSS-544278,CRP (inflammation),15-10-2025,20-10-2025,Dubois,Laboratoire Biochimie,Non
+LAB-0000075,ERP-P-00015,DOSS-544278,Glycémie à jeun,09-09-2025,14-09-2025,Dubois,Laboratoire Hématologie,Oui
+LAB-0000076,ERP-P-00016,DOSS-356622,Créatinine sanguine,26-06-2025,28-06-2025,Moreau,Laboratoire Microbiologie,OUI
+LAB-0000077,ERP-P-00017,DOSS-705526,Créatinine sanguine,19-09-2024,22-09-2024,Dubois,Laboratoire Microbiologie,Non
+LAB-0000078,ERP-P-00017,DOSS-705526,CRP (inflammation),14-02-2024,19-02-2024,Petit,Laboratoire Biochimie,OUI
+LAB-0000079,ERP-P-00017,DOSS-705526,CRP (inflammation),28-01-2024,02-02-2024,Bernard,Laboratoire Microbiologie,NON
+LAB-0000080,ERP-P-00017,DOSS-705526,Bilan lipidique complet,24-09-2024,27-09-2024,Petit,Laboratoire Biochimie,NON
+LAB-0000081,ERP-P-00018,DOSS-352673,Bilan lipidique complet,16-09-2024,20-09-2024,Martin,Laboratoire Hématologie,Non
+LAB-0000082,ERP-P-00018,DOSS-352673,Glycémie à jeun,13-12-2024,17-12-2024,Bernard,Laboratoire Biochimie,Non
+LAB-0000083,ERP-P-00018,DOSS-352673,Créatinine sanguine,25-09-2025,29-09-2025,Moreau,Laboratoire Microbiologie,Oui
+LAB-0000084,ERP-P-00018,DOSS-352673,TSH (thyroïde),03-09-2025,08-09-2025,Moreau,Laboratoire Microbiologie,Non
+LAB-0000085,ERP-P-00018,DOSS-352673,TSH (thyroïde),14-07-2024,17-07-2024,Bernard,Laboratoire Biochimie,Non
+LAB-0000086,ERP-P-00018,DOSS-352673,Glycémie à jeun,06-05-2025,10-05-2025,Martin,Laboratoire Microbiologie,Non
+LAB-0000087,ERP-P-00018,DOSS-352673,TSH (thyroïde),06-10-2024,11-10-2024,Bernard,Laboratoire Hématologie,NON
+LAB-0000088,ERP-P-00019,DOSS-588899,Glycémie à jeun,27-07-2024,31-07-2024,Bernard,Laboratoire Biochimie,OUI
+LAB-0000089,ERP-P-00019,DOSS-588899,CRP (inflammation),31-12-2024,01-01-2025,Leroy,Laboratoire Biochimie,Non
+LAB-0000090,ERP-P-00019,DOSS-588899,Créatinine sanguine,31-10-2025,05-11-2025,Leroy,Laboratoire Microbiologie,NON
+LAB-0000091,ERP-P-00019,DOSS-588899,Bilan lipidique complet,18-01-2025,20-01-2025,Bernard,Laboratoire Biochimie,NON
+LAB-0000092,ERP-P-00019,DOSS-588899,TSH (thyroïde),12-04-2024,16-04-2024,Leroy,Laboratoire Microbiologie,OUI
+LAB-0000093,ERP-P-00019,DOSS-588899,Hémoglobine glyquée (HbA1c),26-02-2025,02-03-2025,Petit,Laboratoire Biochimie,OUI
+LAB-0000094,ERP-P-00019,DOSS-588899,Bilan lipidique complet,27-05-2025,01-06-2025,Petit,Laboratoire Biochimie,Oui
+LAB-0000095,ERP-P-00019,DOSS-588899,Numération Formule Sanguine,29-05-2024,30-05-2024,Moreau,Laboratoire Biochimie,Oui
+LAB-0000096,ERP-P-00020,DOSS-532424,TSH (thyroïde),07-11-2025,12-11-2025,Petit,Laboratoire Hématologie,Oui
+LAB-0000097,ERP-P-00020,DOSS-532424,Hémoglobine glyquée (HbA1c),23-02-2024,27-02-2024,Dubois,Laboratoire Biochimie,NON
+LAB-0000098,ERP-P-00020,DOSS-532424,Numération Formule Sanguine,04-11-2025,09-11-2025,Moreau,Laboratoire Hématologie,OUI
+LAB-0000099,ERP-P-00021,DOSS-117975,TSH (thyroïde),15-03-2025,20-03-2025,Leroy,Laboratoire Hématologie,OUI
+LAB-0000100,ERP-P-00021,DOSS-117975,CRP (inflammation),16-02-2025,17-02-2025,Bernard,Laboratoire Hématologie,NON
+LAB-0000101,ERP-P-00021,DOSS-117975,TSH (thyroïde),17-04-2024,19-04-2024,Bernard,Laboratoire Microbiologie,Oui
+LAB-0000102,ERP-P-00022,DOSS-785491,Numération Formule Sanguine,20-09-2025,22-09-2025,Dubois,Laboratoire Hématologie,NON
+LAB-0000103,ERP-P-00022,DOSS-785491,Transaminases (ALAT/ASAT),26-01-2024,31-01-2024,Dubois,Laboratoire Microbiologie,Oui
+LAB-0000104,ERP-P-00022,DOSS-785491,TSH (thyroïde),26-03-2025,31-03-2025,Petit,Laboratoire Hématologie,Oui
+LAB-0000105,ERP-P-00022,DOSS-785491,Créatinine sanguine,01-09-2025,06-09-2025,Leroy,Laboratoire Microbiologie,Oui
+LAB-0000106,ERP-P-00022,DOSS-785491,Transaminases (ALAT/ASAT),17-05-2025,18-05-2025,Martin,Laboratoire Microbiologie,Non
+LAB-0000107,ERP-P-00022,DOSS-785491,CRP (inflammation),18-11-2023,19-11-2023,Bernard,Laboratoire Biochimie,Non
+LAB-0000108,ERP-P-00022,DOSS-785491,CRP (inflammation),15-04-2024,20-04-2024,Bernard,Laboratoire Hématologie,Non
+LAB-0000109,ERP-P-00022,DOSS-785491,Glycémie à jeun,12-12-2023,17-12-2023,Moreau,Laboratoire Hématologie,Oui
+LAB-0000110,ERP-P-00023,DOSS-202430,Numération Formule Sanguine,17-12-2024,20-12-2024,Petit,Laboratoire Hématologie,Non
+LAB-0000111,ERP-P-00023,DOSS-202430,CRP (inflammation),17-11-2024,21-11-2024,Martin,Laboratoire Microbiologie,NON
+LAB-0000112,ERP-P-00023,DOSS-202430,Créatinine sanguine,21-08-2025,23-08-2025,Moreau,Laboratoire Biochimie,Oui
+LAB-0000113,ERP-P-00023,DOSS-202430,Bilan lipidique complet,15-02-2025,19-02-2025,Moreau,Laboratoire Microbiologie,Non
+LAB-0000114,ERP-P-00023,DOSS-202430,Transaminases (ALAT/ASAT),14-10-2024,17-10-2024,Dubois,Laboratoire Biochimie,Oui
+LAB-0000115,ERP-P-00023,DOSS-202430,Hémoglobine glyquée (HbA1c),05-01-2025,08-01-2025,Bernard,Laboratoire Biochimie,Non
+LAB-0000116,ERP-P-00023,DOSS-202430,Bilan lipidique complet,19-08-2025,23-08-2025,Petit,Laboratoire Microbiologie,NON
+LAB-0000117,ERP-P-00024,DOSS-208310,Numération Formule Sanguine,18-10-2024,21-10-2024,Petit,Laboratoire Hématologie,Oui
+LAB-0000118,ERP-P-00024,DOSS-208310,TSH (thyroïde),23-04-2024,28-04-2024,Leroy,Laboratoire Biochimie,NON
+LAB-0000119,ERP-P-00024,DOSS-208310,Bilan lipidique complet,27-05-2025,30-05-2025,Bernard,Laboratoire Hématologie,NON
+LAB-0000120,ERP-P-00024,DOSS-208310,Glycémie à jeun,20-06-2025,22-06-2025,Petit,Laboratoire Hématologie,NON
+LAB-0000121,ERP-P-00024,DOSS-208310,Hémoglobine glyquée (HbA1c),14-01-2025,15-01-2025,Bernard,Laboratoire Hématologie,Non
+LAB-0000122,ERP-P-00024,DOSS-208310,Hémoglobine glyquée (HbA1c),15-02-2024,20-02-2024,Leroy,Laboratoire Biochimie,NON
+LAB-0000123,ERP-P-00025,DOSS-212168,Hémoglobine glyquée (HbA1c),14-12-2024,17-12-2024,Petit,Laboratoire Microbiologie,Non
+LAB-0000124,ERP-P-00025,DOSS-212168,Transaminases (ALAT/ASAT),13-01-2025,18-01-2025,Moreau,Laboratoire Biochimie,NON
+LAB-0000125,ERP-P-00025,DOSS-212168,Bilan lipidique complet,30-12-2024,03-01-2025,Bernard,Laboratoire Hématologie,NON
+LAB-0000126,ERP-P-00025,DOSS-212168,TSH (thyroïde),06-04-2024,09-04-2024,Petit,Laboratoire Hématologie,NON
+LAB-0000127,ERP-P-00025,DOSS-212168,Glycémie à jeun,08-11-2024,13-11-2024,Martin,Laboratoire Microbiologie,Non
+LAB-0000128,ERP-P-00025,DOSS-212168,Numération Formule Sanguine,19-12-2023,23-12-2023,Moreau,Laboratoire Biochimie,NON
+LAB-0000129,ERP-P-00025,DOSS-212168,Glycémie à jeun,22-01-2025,26-01-2025,Moreau,Laboratoire Hématologie,Non
+LAB-0000130,ERP-P-00026,DOSS-764100,Hémoglobine glyquée (HbA1c),02-09-2025,07-09-2025,Petit,Laboratoire Microbiologie,NON
+LAB-0000131,ERP-P-00026,DOSS-764100,CRP (inflammation),18-05-2024,23-05-2024,Dubois,Laboratoire Hématologie,Oui
+LAB-0000132,ERP-P-00026,DOSS-764100,TSH (thyroïde),28-07-2025,31-07-2025,Martin,Laboratoire Microbiologie,Oui
+LAB-0000133,ERP-P-00026,DOSS-764100,CRP (inflammation),19-04-2024,22-04-2024,Petit,Laboratoire Biochimie,Oui
+LAB-0000134,ERP-P-00026,DOSS-764100,Créatinine sanguine,08-08-2025,10-08-2025,Leroy,Laboratoire Microbiologie,Non
+LAB-0000135,ERP-P-00026,DOSS-764100,Transaminases (ALAT/ASAT),17-08-2024,21-08-2024,Petit,Laboratoire Microbiologie,Non
+LAB-0000136,ERP-P-00026,DOSS-764100,Numération Formule Sanguine,28-11-2024,02-12-2024,Dubois,Laboratoire Hématologie,NON
+LAB-0000137,ERP-P-00027,DOSS-190025,TSH (thyroïde),07-08-2024,12-08-2024,Petit,Laboratoire Hématologie,NON
+LAB-0000138,ERP-P-00027,DOSS-190025,Hémoglobine glyquée (HbA1c),09-08-2025,13-08-2025,Bernard,Laboratoire Biochimie,OUI
+LAB-0000139,ERP-P-00027,DOSS-190025,Glycémie à jeun,02-10-2025,03-10-2025,Bernard,Laboratoire Microbiologie,Oui
+LAB-0000140,ERP-P-00027,DOSS-190025,Bilan lipidique complet,24-12-2023,26-12-2023,Leroy,Laboratoire Biochimie,Non
+LAB-0000141,ERP-P-00027,DOSS-190025,CRP (inflammation),13-12-2024,17-12-2024,Martin,Laboratoire Hématologie,Non
+LAB-0000142,ERP-P-00027,DOSS-190025,CRP (inflammation),10-05-2025,14-05-2025,Dubois,Laboratoire Microbiologie,Non
+LAB-0000143,ERP-P-00028,DOSS-571413,Glycémie à jeun,04-04-2024,09-04-2024,Martin,Laboratoire Hématologie,OUI
+LAB-0000144,ERP-P-00028,DOSS-571413,Hémoglobine glyquée (HbA1c),29-04-2025,30-04-2025,Bernard,Laboratoire Microbiologie,NON
+LAB-0000145,ERP-P-00029,DOSS-653349,Transaminases (ALAT/ASAT),25-11-2024,29-11-2024,Leroy,Laboratoire Biochimie,OUI
+LAB-0000146,ERP-P-00029,DOSS-653349,Glycémie à jeun,26-02-2024,28-02-2024,Bernard,Laboratoire Biochimie,Non
+LAB-0000147,ERP-P-00030,DOSS-420214,Bilan lipidique complet,14-09-2024,19-09-2024,Petit,Laboratoire Hématologie,Non
+LAB-0000148,ERP-P-00030,DOSS-420214,Bilan lipidique complet,06-07-2024,11-07-2024,Martin,Laboratoire Hématologie,OUI
+LAB-0000149,ERP-P-00030,DOSS-420214,Bilan lipidique complet,26-06-2025,29-06-2025,Petit,Laboratoire Microbiologie,Oui
+LAB-0000150,ERP-P-00030,DOSS-420214,Numération Formule Sanguine,14-11-2024,18-11-2024,Martin,Laboratoire Biochimie,NON
+LAB-0000151,ERP-P-00030,DOSS-420214,Hémoglobine glyquée (HbA1c),20-04-2024,24-04-2024,Moreau,Laboratoire Hématologie,NON
+LAB-0000152,ERP-P-00030,DOSS-420214,Hémoglobine glyquée (HbA1c),20-11-2023,24-11-2023,Martin,Laboratoire Biochimie,Oui
+LAB-0000153,ERP-P-00030,DOSS-420214,Créatinine sanguine,05-04-2025,06-04-2025,Bernard,Laboratoire Biochimie,OUI
+LAB-0000154,ERP-P-00031,DOSS-276379,Glycémie à jeun,09-04-2024,12-04-2024,Leroy,Laboratoire Hématologie,Oui
+LAB-0000155,ERP-P-00031,DOSS-276379,TSH (thyroïde),22-08-2024,26-08-2024,Dubois,Laboratoire Microbiologie,Non
+LAB-0000156,ERP-P-00032,DOSS-412170,TSH (thyroïde),19-07-2025,21-07-2025,Moreau,Laboratoire Microbiologie,OUI
+LAB-0000157,ERP-P-00032,DOSS-412170,CRP (inflammation),20-11-2023,22-11-2023,Leroy,Laboratoire Biochimie,Non
+LAB-0000158,ERP-P-00032,DOSS-412170,Numération Formule Sanguine,19-04-2025,24-04-2025,Bernard,Laboratoire Microbiologie,OUI
+LAB-0000159,ERP-P-00032,DOSS-412170,Bilan lipidique complet,15-03-2024,18-03-2024,Moreau,Laboratoire Hématologie,OUI
+LAB-0000160,ERP-P-00032,DOSS-412170,Créatinine sanguine,09-04-2024,14-04-2024,Moreau,Laboratoire Biochimie,Non
+LAB-0000161,ERP-P-00032,DOSS-412170,Numération Formule Sanguine,21-09-2024,24-09-2024,Moreau,Laboratoire Biochimie,Non
+LAB-0000162,ERP-P-00032,DOSS-412170,Bilan lipidique complet,06-03-2025,09-03-2025,Martin,Laboratoire Microbiologie,NON
+LAB-0000163,ERP-P-00032,DOSS-412170,Bilan lipidique complet,03-07-2024,08-07-2024,Moreau,Laboratoire Hématologie,NON
+LAB-0000164,ERP-P-00033,DOSS-493396,Transaminases (ALAT/ASAT),06-12-2023,10-12-2023,Petit,Laboratoire Hématologie,Oui
+LAB-0000165,ERP-P-00033,DOSS-493396,Hémoglobine glyquée (HbA1c),13-08-2025,16-08-2025,Dubois,Laboratoire Microbiologie,NON
+LAB-0000166,ERP-P-00033,DOSS-493396,CRP (inflammation),07-04-2025,09-04-2025,Petit,Laboratoire Hématologie,OUI
+LAB-0000167,ERP-P-00033,DOSS-493396,Transaminases (ALAT/ASAT),30-01-2025,04-02-2025,Leroy,Laboratoire Biochimie,NON
+LAB-0000168,ERP-P-00033,DOSS-493396,Numération Formule Sanguine,30-11-2024,01-12-2024,Dubois,Laboratoire Microbiologie,NON
+LAB-0000169,ERP-P-00034,DOSS-117072,TSH (thyroïde),04-09-2024,06-09-2024,Moreau,Laboratoire Hématologie,Non
+LAB-0000170,ERP-P-00035,DOSS-387330,Bilan lipidique complet,06-01-2024,07-01-2024,Petit,Laboratoire Microbiologie,OUI
+LAB-0000171,ERP-P-00035,DOSS-387330,TSH (thyroïde),01-12-2023,05-12-2023,Moreau,Laboratoire Biochimie,Oui
+LAB-0000172,ERP-P-00035,DOSS-387330,TSH (thyroïde),15-11-2025,19-11-2025,Dubois,Laboratoire Biochimie,Non
+LAB-0000173,ERP-P-00035,DOSS-387330,Hémoglobine glyquée (HbA1c),03-06-2024,04-06-2024,Dubois,Laboratoire Microbiologie,OUI
+LAB-0000174,ERP-P-00035,DOSS-387330,CRP (inflammation),16-07-2025,18-07-2025,Petit,Laboratoire Biochimie,Non
+LAB-0000175,ERP-P-00035,DOSS-387330,Glycémie à jeun,20-10-2024,21-10-2024,Dubois,Laboratoire Hématologie,OUI
+LAB-0000176,ERP-P-00036,DOSS-413791,Numération Formule Sanguine,07-09-2025,12-09-2025,Moreau,Laboratoire Biochimie,NON
+LAB-0000177,ERP-P-00036,DOSS-413791,TSH (thyroïde),22-11-2024,24-11-2024,Petit,Laboratoire Microbiologie,NON
+LAB-0000178,ERP-P-00036,DOSS-413791,Glycémie à jeun,08-04-2025,09-04-2025,Martin,Laboratoire Biochimie,NON
+LAB-0000179,ERP-P-00037,DOSS-468611,Créatinine sanguine,07-03-2025,08-03-2025,Moreau,Laboratoire Hématologie,Non
+LAB-0000180,ERP-P-00037,DOSS-468611,TSH (thyroïde),04-06-2024,08-06-2024,Bernard,Laboratoire Microbiologie,Oui
+LAB-0000181,ERP-P-00038,DOSS-921875,Glycémie à jeun,02-02-2024,07-02-2024,Dubois,Laboratoire Hématologie,OUI
+LAB-0000182,ERP-P-00038,DOSS-921875,CRP (inflammation),04-07-2025,09-07-2025,Petit,Laboratoire Hématologie,Non
+LAB-0000183,ERP-P-00038,DOSS-921875,Glycémie à jeun,22-07-2024,23-07-2024,Leroy,Laboratoire Biochimie,Oui
+LAB-0000184,ERP-P-00038,DOSS-921875,TSH (thyroïde),21-02-2025,22-02-2025,Dubois,Laboratoire Hématologie,OUI
+LAB-0000185,ERP-P-00038,DOSS-921875,CRP (inflammation),12-02-2024,16-02-2024,Moreau,Laboratoire Hématologie,Oui
+LAB-0000186,ERP-P-00038,DOSS-921875,Bilan lipidique complet,31-01-2024,03-02-2024,Dubois,Laboratoire Hématologie,Oui
+LAB-0000187,ERP-P-00038,DOSS-921875,TSH (thyroïde),11-06-2024,13-06-2024,Leroy,Laboratoire Hématologie,NON
+LAB-0000188,ERP-P-00038,DOSS-921875,Glycémie à jeun,26-03-2024,29-03-2024,Moreau,Laboratoire Hématologie,Non
+LAB-0000189,ERP-P-00039,DOSS-160718,Bilan lipidique complet,04-01-2025,05-01-2025,Dubois,Laboratoire Microbiologie,Non
+LAB-0000190,ERP-P-00040,DOSS-835575,Transaminases (ALAT/ASAT),30-05-2025,01-06-2025,Moreau,Laboratoire Hématologie,Oui
+LAB-0000191,ERP-P-00040,DOSS-835575,Transaminases (ALAT/ASAT),17-10-2025,21-10-2025,Bernard,Laboratoire Microbiologie,Oui
+LAB-0000192,ERP-P-00040,DOSS-835575,Glycémie à jeun,20-02-2025,24-02-2025,Petit,Laboratoire Microbiologie,OUI
+LAB-0000193,ERP-P-00040,DOSS-835575,Hémoglobine glyquée (HbA1c),21-09-2025,26-09-2025,Martin,Laboratoire Hématologie,Non
+LAB-0000194,ERP-P-00040,DOSS-835575,Glycémie à jeun,28-02-2025,05-03-2025,Moreau,Laboratoire Microbiologie,Oui
+LAB-0000195,ERP-P-00041,DOSS-339499,CRP (inflammation),09-11-2024,11-11-2024,Martin,Laboratoire Biochimie,NON
+LAB-0000196,ERP-P-00041,DOSS-339499,Transaminases (ALAT/ASAT),01-04-2025,03-04-2025,Petit,Laboratoire Microbiologie,OUI
+LAB-0000197,ERP-P-00041,DOSS-339499,Glycémie à jeun,12-02-2025,17-02-2025,Bernard,Laboratoire Biochimie,Oui
+LAB-0000198,ERP-P-00041,DOSS-339499,TSH (thyroïde),17-05-2025,22-05-2025,Dubois,Laboratoire Hématologie,Oui
+LAB-0000199,ERP-P-00041,DOSS-339499,Créatinine sanguine,28-07-2024,31-07-2024,Bernard,Laboratoire Biochimie,NON
+LAB-0000200,ERP-P-00041,DOSS-339499,Transaminases (ALAT/ASAT),08-11-2025,10-11-2025,Bernard,Laboratoire Microbiologie,OUI
+LAB-0000201,ERP-P-00041,DOSS-339499,TSH (thyroïde),18-02-2024,22-02-2024,Bernard,Laboratoire Microbiologie,NON
+LAB-0000202,ERP-P-00041,DOSS-339499,TSH (thyroïde),30-04-2025,02-05-2025,Dubois,Laboratoire Hématologie,Oui
+LAB-0000203,ERP-P-00042,DOSS-344315,Glycémie à jeun,06-01-2025,08-01-2025,Leroy,Laboratoire Biochimie,NON
+LAB-0000204,ERP-P-00042,DOSS-344315,Numération Formule Sanguine,01-07-2024,03-07-2024,Moreau,Laboratoire Hématologie,Oui
+LAB-0000205,ERP-P-00042,DOSS-344315,TSH (thyroïde),03-10-2025,08-10-2025,Petit,Laboratoire Microbiologie,OUI
+LAB-0000206,ERP-P-00042,DOSS-344315,Glycémie à jeun,04-08-2024,09-08-2024,Dubois,Laboratoire Microbiologie,Non
+LAB-0000207,ERP-P-00042,DOSS-344315,CRP (inflammation),03-02-2024,04-02-2024,Leroy,Laboratoire Microbiologie,Oui
+LAB-0000208,ERP-P-00042,DOSS-344315,Bilan lipidique complet,28-08-2024,30-08-2024,Bernard,Laboratoire Hématologie,OUI
+LAB-0000209,ERP-P-00042,DOSS-344315,Transaminases (ALAT/ASAT),10-10-2024,13-10-2024,Petit,Laboratoire Hématologie,Non
+LAB-0000210,ERP-P-00043,DOSS-178315,Hémoglobine glyquée (HbA1c),01-06-2025,05-06-2025,Bernard,Laboratoire Hématologie,Oui
+LAB-0000211,ERP-P-00043,DOSS-178315,Transaminases (ALAT/ASAT),17-05-2024,19-05-2024,Petit,Laboratoire Hématologie,NON
+LAB-0000212,ERP-P-00044,DOSS-377880,Transaminases (ALAT/ASAT),10-04-2025,12-04-2025,Dubois,Laboratoire Microbiologie,Non
+LAB-0000213,ERP-P-00045,DOSS-473023,Hémoglobine glyquée (HbA1c),28-09-2024,03-10-2024,Moreau,Laboratoire Microbiologie,Non
+LAB-0000214,ERP-P-00046,DOSS-199326,TSH (thyroïde),06-07-2025,10-07-2025,Bernard,Laboratoire Microbiologie,Oui
+LAB-0000215,ERP-P-00046,DOSS-199326,Créatinine sanguine,30-03-2024,31-03-2024,Dubois,Laboratoire Biochimie,Non
+LAB-0000216,ERP-P-00046,DOSS-199326,Hémoglobine glyquée (HbA1c),25-01-2024,27-01-2024,Dubois,Laboratoire Hématologie,Oui
+LAB-0000217,ERP-P-00046,DOSS-199326,Hémoglobine glyquée (HbA1c),04-10-2025,05-10-2025,Martin,Laboratoire Microbiologie,NON
+LAB-0000218,ERP-P-00047,DOSS-961599,TSH (thyroïde),19-11-2024,21-11-2024,Bernard,Laboratoire Hématologie,NON
+LAB-0000219,ERP-P-00047,DOSS-961599,Numération Formule Sanguine,17-06-2025,22-06-2025,Leroy,Laboratoire Microbiologie,Non
+LAB-0000220,ERP-P-00047,DOSS-961599,Créatinine sanguine,24-01-2024,28-01-2024,Petit,Laboratoire Microbiologie,NON
+LAB-0000221,ERP-P-00048,DOSS-163941,TSH (thyroïde),28-01-2024,02-02-2024,Dubois,Laboratoire Hématologie,OUI
+LAB-0000222,ERP-P-00048,DOSS-163941,Hémoglobine glyquée (HbA1c),13-07-2024,16-07-2024,Leroy,Laboratoire Microbiologie,OUI
+LAB-0000223,ERP-P-00048,DOSS-163941,Créatinine sanguine,15-10-2024,17-10-2024,Dubois,Laboratoire Hématologie,Non
+LAB-0000224,ERP-P-00048,DOSS-163941,Créatinine sanguine,17-10-2025,18-10-2025,Petit,Laboratoire Microbiologie,OUI
+LAB-0000225,ERP-P-00049,DOSS-904092,Numération Formule Sanguine,19-05-2024,21-05-2024,Leroy,Laboratoire Hématologie,OUI
+LAB-0000226,ERP-P-00049,DOSS-904092,Bilan lipidique complet,23-05-2025,25-05-2025,Leroy,Laboratoire Hématologie,OUI
+LAB-0000227,ERP-P-00049,DOSS-904092,Numération Formule Sanguine,21-03-2024,24-03-2024,Leroy,Laboratoire Microbiologie,Non
+LAB-0000228,ERP-P-00049,DOSS-904092,TSH (thyroïde),19-04-2024,23-04-2024,Leroy,Laboratoire Hématologie,Non
+LAB-0000229,ERP-P-00049,DOSS-904092,Numération Formule Sanguine,02-07-2024,03-07-2024,Dubois,Laboratoire Biochimie,Non
+LAB-0000230,ERP-P-00050,DOSS-120896,Transaminases (ALAT/ASAT),19-05-2025,20-05-2025,Dubois,Laboratoire Biochimie,Non
+LAB-0000231,ERP-P-00050,DOSS-120896,Transaminases (ALAT/ASAT),26-07-2025,27-07-2025,Bernard,Laboratoire Microbiologie,NON
+LAB-0000232,ERP-P-00050,DOSS-120896,Glycémie à jeun,26-03-2024,29-03-2024,Bernard,Laboratoire Hématologie,Non
+LAB-0000233,ERP-P-00050,DOSS-120896,CRP (inflammation),08-06-2025,12-06-2025,Moreau,Laboratoire Hématologie,Non
+LAB-0000234,ERP-P-00050,DOSS-120896,Transaminases (ALAT/ASAT),23-11-2023,25-11-2023,Moreau,Laboratoire Microbiologie,Non
+LAB-0000235,ERP-P-00050,DOSS-120896,Créatinine sanguine,25-10-2024,28-10-2024,Martin,Laboratoire Biochimie,Oui
+LAB-0000236,ERP-P-00051,DOSS-836109,Glycémie à jeun,01-02-2024,05-02-2024,Martin,Laboratoire Hématologie,Oui
+LAB-0000237,ERP-P-00051,DOSS-836109,Transaminases (ALAT/ASAT),18-03-2025,21-03-2025,Martin,Laboratoire Microbiologie,Oui
+LAB-0000238,ERP-P-00051,DOSS-836109,Transaminases (ALAT/ASAT),22-11-2023,26-11-2023,Dubois,Laboratoire Hématologie,Non
+LAB-0000239,ERP-P-00051,DOSS-836109,Glycémie à jeun,06-03-2025,09-03-2025,Bernard,Laboratoire Biochimie,Oui
+LAB-0000240,ERP-P-00052,DOSS-150486,Transaminases (ALAT/ASAT),25-10-2024,30-10-2024,Petit,Laboratoire Biochimie,NON
+LAB-0000241,ERP-P-00052,DOSS-150486,TSH (thyroïde),04-04-2024,06-04-2024,Petit,Laboratoire Biochimie,Oui
+LAB-0000242,ERP-P-00052,DOSS-150486,Numération Formule Sanguine,19-01-2025,22-01-2025,Bernard,Laboratoire Biochimie,Oui
+LAB-0000243,ERP-P-00052,DOSS-150486,Bilan lipidique complet,01-12-2024,05-12-2024,Martin,Laboratoire Microbiologie,Oui
+LAB-0000244,ERP-P-00052,DOSS-150486,Glycémie à jeun,05-05-2024,08-05-2024,Leroy,Laboratoire Microbiologie,NON
+LAB-0000245,ERP-P-00052,DOSS-150486,Numération Formule Sanguine,26-11-2023,30-11-2023,Moreau,Laboratoire Biochimie,NON
+LAB-0000246,ERP-P-00052,DOSS-150486,Numération Formule Sanguine,09-06-2025,10-06-2025,Bernard,Laboratoire Biochimie,Non
+LAB-0000247,ERP-P-00052,DOSS-150486,Créatinine sanguine,23-09-2024,26-09-2024,Bernard,Laboratoire Biochimie,Oui
+LAB-0000248,ERP-P-00053,DOSS-152046,CRP (inflammation),13-11-2025,14-11-2025,Bernard,Laboratoire Microbiologie,NON
+LAB-0000249,ERP-P-00053,DOSS-152046,Glycémie à jeun,26-04-2025,27-04-2025,Martin,Laboratoire Biochimie,OUI
+LAB-0000250,ERP-P-00053,DOSS-152046,Hémoglobine glyquée (HbA1c),25-08-2025,26-08-2025,Bernard,Laboratoire Hématologie,NON
+LAB-0000251,ERP-P-00053,DOSS-152046,Créatinine sanguine,04-07-2024,05-07-2024,Moreau,Laboratoire Microbiologie,NON
+LAB-0000252,ERP-P-00053,DOSS-152046,Transaminases (ALAT/ASAT),11-05-2025,15-05-2025,Bernard,Laboratoire Biochimie,NON
+LAB-0000253,ERP-P-00053,DOSS-152046,Créatinine sanguine,02-10-2025,06-10-2025,Petit,Laboratoire Hématologie,Non
+LAB-0000254,ERP-P-00054,DOSS-977740,Transaminases (ALAT/ASAT),21-08-2025,26-08-2025,Petit,Laboratoire Microbiologie,Non
+LAB-0000255,ERP-P-00054,DOSS-977740,Numération Formule Sanguine,29-04-2024,03-05-2024,Leroy,Laboratoire Hématologie,NON
+LAB-0000256,ERP-P-00055,DOSS-700534,Bilan lipidique complet,20-06-2024,21-06-2024,Petit,Laboratoire Biochimie,Non
+LAB-0000257,ERP-P-00056,DOSS-322182,Bilan lipidique complet,24-04-2025,29-04-2025,Bernard,Laboratoire Hématologie,Oui
+LAB-0000258,ERP-P-00056,DOSS-322182,CRP (inflammation),19-08-2025,24-08-2025,Petit,Laboratoire Microbiologie,OUI
+LAB-0000259,ERP-P-00056,DOSS-322182,Hémoglobine glyquée (HbA1c),07-02-2025,08-02-2025,Moreau,Laboratoire Microbiologie,NON
+LAB-0000260,ERP-P-00056,DOSS-322182,CRP (inflammation),24-07-2025,26-07-2025,Martin,Laboratoire Microbiologie,Oui
+LAB-0000261,ERP-P-00056,DOSS-322182,Glycémie à jeun,31-07-2025,03-08-2025,Leroy,Laboratoire Hématologie,NON
+LAB-0000262,ERP-P-00056,DOSS-322182,CRP (inflammation),19-02-2025,23-02-2025,Leroy,Laboratoire Microbiologie,NON
+LAB-0000263,ERP-P-00056,DOSS-322182,Bilan lipidique complet,09-10-2025,12-10-2025,Petit,Laboratoire Biochimie,NON
+LAB-0000264,ERP-P-00057,DOSS-140666,Transaminases (ALAT/ASAT),14-02-2025,15-02-2025,Bernard,Laboratoire Hématologie,OUI
+LAB-0000265,ERP-P-00057,DOSS-140666,Hémoglobine glyquée (HbA1c),02-02-2025,03-02-2025,Martin,Laboratoire Biochimie,OUI
+LAB-0000266,ERP-P-00057,DOSS-140666,Transaminases (ALAT/ASAT),20-08-2024,23-08-2024,Moreau,Laboratoire Hématologie,Oui
+LAB-0000267,ERP-P-00057,DOSS-140666,Hémoglobine glyquée (HbA1c),08-05-2025,10-05-2025,Petit,Laboratoire Microbiologie,NON
+LAB-0000268,ERP-P-00057,DOSS-140666,Transaminases (ALAT/ASAT),06-06-2024,07-06-2024,Leroy,Laboratoire Biochimie,Oui
+LAB-0000269,ERP-P-00057,DOSS-140666,CRP (inflammation),02-01-2025,04-01-2025,Leroy,Laboratoire Microbiologie,Oui
+LAB-0000270,ERP-P-00057,DOSS-140666,TSH (thyroïde),23-05-2025,25-05-2025,Dubois,Laboratoire Biochimie,Oui
+LAB-0000271,ERP-P-00057,DOSS-140666,Numération Formule Sanguine,06-08-2024,09-08-2024,Moreau,Laboratoire Biochimie,OUI
+LAB-0000272,ERP-P-00058,DOSS-486244,Hémoglobine glyquée (HbA1c),31-10-2024,05-11-2024,Petit,Laboratoire Biochimie,NON
+LAB-0000273,ERP-P-00058,DOSS-486244,Transaminases (ALAT/ASAT),26-03-2024,29-03-2024,Martin,Laboratoire Hématologie,Oui
+LAB-0000274,ERP-P-00058,DOSS-486244,Numération Formule Sanguine,29-01-2025,02-02-2025,Dubois,Laboratoire Biochimie,Non
+LAB-0000275,ERP-P-00058,DOSS-486244,TSH (thyroïde),04-04-2025,06-04-2025,Bernard,Laboratoire Microbiologie,NON
+LAB-0000276,ERP-P-00059,DOSS-638214,Numération Formule Sanguine,11-03-2024,13-03-2024,Bernard,Laboratoire Microbiologie,OUI
+LAB-0000277,ERP-P-00059,DOSS-638214,Créatinine sanguine,18-11-2023,22-11-2023,Petit,Laboratoire Hématologie,NON
+LAB-0000278,ERP-P-00059,DOSS-638214,TSH (thyroïde),03-03-2025,07-03-2025,Bernard,Laboratoire Microbiologie,NON
+LAB-0000279,ERP-P-00060,DOSS-712879,Glycémie à jeun,15-01-2025,19-01-2025,Dubois,Laboratoire Hématologie,OUI
+LAB-0000280,ERP-P-00060,DOSS-712879,Transaminases (ALAT/ASAT),31-01-2024,03-02-2024,Bernard,Laboratoire Microbiologie,OUI
+LAB-0000281,ERP-P-00060,DOSS-712879,Bilan lipidique complet,08-05-2025,13-05-2025,Martin,Laboratoire Biochimie,NON
+LAB-0000282,ERP-P-00060,DOSS-712879,Transaminases (ALAT/ASAT),10-01-2024,12-01-2024,Moreau,Laboratoire Biochimie,NON
+LAB-0000283,ERP-P-00060,DOSS-712879,Créatinine sanguine,18-01-2025,22-01-2025,Petit,Laboratoire Hématologie,Oui

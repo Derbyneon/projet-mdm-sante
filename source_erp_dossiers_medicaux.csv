@@ -1,0 +1,61 @@
+﻿num_dossier,patient_id_erp,historique_medical,allergies,date_creation_dossier,medecin_referent
+DOSS-192055,ERP-P-00001,"Aucun antécédent particulier, Asthme, Insuffisance rénale",Aucune,2018-09-17,Leroy
+DOSS-432427,ERP-P-00002,"Hypertension artérielle, Allergies (pénicilline), Insuffisance rénale",Arachides,2021-01-05,Martin
+DOSS-231250,ERP-P-00003,"Asthme, Cholestérol élevé, Insuffisance rénale",Aucune,2019-03-30,Moreau
+DOSS-622230,ERP-P-00004,"Cholestérol élevé, Asthme, Insuffisance rénale",Pollen,2022-02-17,Moreau
+DOSS-299055,ERP-P-00005,Allergies (pénicilline),Arachides,2019-08-23,Petit
+DOSS-697983,ERP-P-00006,"Diabète type 2, Asthme, Cholestérol élevé",Latex,2024-01-20,Petit
+DOSS-806537,ERP-P-00007,Allergies (pénicilline),Arachides,2021-06-05,Moreau
+DOSS-856442,ERP-P-00008,Cholestérol élevé,Pollen,2022-12-19,Leroy
+DOSS-335790,ERP-P-00009,"Aucun antécédent particulier, Asthme",Pénicilline,2017-02-19,Moreau
+DOSS-205428,ERP-P-00010,"Aucun antécédent particulier, Diabète type 2, Hypertension artérielle",Arachides,2023-02-09,Petit
+DOSS-740632,ERP-P-00011,"Allergies (pénicilline), Aucun antécédent particulier, Cholestérol élevé",Latex,2023-11-27,Petit
+DOSS-416613,ERP-P-00012,"Insuffisance rénale, Cholestérol élevé, Hypertension artérielle",Latex,2017-07-19,Bernard
+DOSS-894139,ERP-P-00013,"Aucun antécédent particulier, Insuffisance rénale, Diabète type 2",Pénicilline,2017-04-01,Leroy
+DOSS-700521,ERP-P-00014,"Diabète type 2, Aucun antécédent particulier, Asthme",Arachides,2019-12-04,Dubois
+DOSS-544278,ERP-P-00015,"Insuffisance rénale, Hypertension artérielle",Arachides,2024-03-15,Dubois
+DOSS-356622,ERP-P-00016,"Hypertension artérielle, Allergies (pénicilline), Insuffisance rénale",Pénicilline,2018-10-29,Martin
+DOSS-705526,ERP-P-00017,"Aucun antécédent particulier, Insuffisance rénale, Asthme",Pénicilline,2021-06-29,Martin
+DOSS-352673,ERP-P-00018,Asthme,Pénicilline,2019-09-08,Dubois
+DOSS-588899,ERP-P-00019,"Insuffisance rénale, Asthme, Aucun antécédent particulier",Latex,2020-11-04,Leroy
+DOSS-532424,ERP-P-00020,Aucun antécédent particulier,Pénicilline,2024-02-12,Moreau
+DOSS-117975,ERP-P-00021,"Aucun antécédent particulier, Insuffisance rénale, Allergies (pénicilline)",Pénicilline,2023-09-05,Dubois
+DOSS-785491,ERP-P-00022,"Aucun antécédent particulier, Hypertension artérielle, Insuffisance rénale",Pollen,2020-08-16,Petit
+DOSS-202430,ERP-P-00023,"Diabète type 2, Hypertension artérielle",Latex,2018-02-03,Leroy
+DOSS-208310,ERP-P-00024,Hypertension artérielle,Latex,2018-08-30,Dubois
+DOSS-212168,ERP-P-00025,Asthme,Aucune,2020-06-10,Bernard
+DOSS-764100,ERP-P-00026,"Diabète type 2, Asthme",Pénicilline,2016-11-09,Petit
+DOSS-190025,ERP-P-00027,Aucun antécédent particulier,Pénicilline,2020-12-21,Bernard
+DOSS-571413,ERP-P-00028,"Allergies (pénicilline), Aucun antécédent particulier, Hypertension artérielle",Pénicilline,2022-07-28,Bernard
+DOSS-653349,ERP-P-00029,"Asthme, Cholestérol élevé, Allergies (pénicilline)",Arachides,2020-06-23,Leroy
+DOSS-420214,ERP-P-00030,Diabète type 2,Latex,2017-02-06,Martin
+DOSS-276379,ERP-P-00031,"Cholestérol élevé, Insuffisance rénale",Pollen,2018-09-18,Leroy
+DOSS-412170,ERP-P-00032,Allergies (pénicilline),Latex,2020-12-20,Dubois
+DOSS-493396,ERP-P-00033,"Hypertension artérielle, Insuffisance rénale",Aucune,2020-05-11,Leroy
+DOSS-117072,ERP-P-00034,Aucun antécédent particulier,Pénicilline,2019-12-06,Petit
+DOSS-387330,ERP-P-00035,Insuffisance rénale,Latex,2022-01-26,Dubois
+DOSS-413791,ERP-P-00036,Allergies (pénicilline),Pénicilline,2017-09-07,Moreau
+DOSS-468611,ERP-P-00037,"Asthme, Diabète type 2",Pénicilline,2021-10-09,Moreau
+DOSS-921875,ERP-P-00038,Allergies (pénicilline),Pollen,2023-08-13,Martin
+DOSS-160718,ERP-P-00039,Hypertension artérielle,Pollen,2023-07-30,Petit
+DOSS-835575,ERP-P-00040,Diabète type 2,Pollen,2020-12-27,Leroy
+DOSS-339499,ERP-P-00041,"Cholestérol élevé, Hypertension artérielle, Insuffisance rénale",Aucune,2022-02-19,Dubois
+DOSS-344315,ERP-P-00042,"Asthme, Insuffisance rénale, Hypertension artérielle",Latex,2024-11-11,Moreau
+DOSS-178315,ERP-P-00043,Diabète type 2,Arachides,2023-08-28,Martin
+DOSS-377880,ERP-P-00044,Hypertension artérielle,Pénicilline,2017-03-08,Bernard
+DOSS-473023,ERP-P-00045,"Cholestérol élevé, Hypertension artérielle",Latex,2021-12-17,Martin
+DOSS-199326,ERP-P-00046,"Hypertension artérielle, Diabète type 2",Aucune,2024-09-29,Dubois
+DOSS-961599,ERP-P-00047,"Allergies (pénicilline), Aucun antécédent particulier, Hypertension artérielle",Pollen,2017-03-20,Petit
+DOSS-163941,ERP-P-00048,Asthme,Pollen,2023-05-04,Petit
+DOSS-904092,ERP-P-00049,"Diabète type 2, Aucun antécédent particulier, Hypertension artérielle",Pénicilline,2017-07-06,Martin
+DOSS-120896,ERP-P-00050,"Allergies (pénicilline), Hypertension artérielle, Asthme",Arachides,2022-08-14,Martin
+DOSS-836109,ERP-P-00051,"Allergies (pénicilline), Cholestérol élevé, Hypertension artérielle",Pénicilline,2018-02-14,Bernard
+DOSS-150486,ERP-P-00052,"Allergies (pénicilline), Insuffisance rénale",Pollen,2023-01-05,Petit
+DOSS-152046,ERP-P-00053,"Cholestérol élevé, Aucun antécédent particulier",Pollen,2023-02-26,Dubois
+DOSS-977740,ERP-P-00054,"Cholestérol élevé, Hypertension artérielle",Pénicilline,2016-06-10,Moreau
+DOSS-700534,ERP-P-00055,Allergies (pénicilline),Latex,2023-12-29,Petit
+DOSS-322182,ERP-P-00056,Diabète type 2,Aucune,2020-02-17,Dubois
+DOSS-140666,ERP-P-00057,"Asthme, Insuffisance rénale",Pénicilline,2024-04-29,Moreau
+DOSS-486244,ERP-P-00058,"Cholestérol élevé, Allergies (pénicilline)",Aucune,2017-03-28,Dubois
+DOSS-638214,ERP-P-00059,Aucun antécédent particulier,Aucune,2019-07-25,Martin
+DOSS-712879,ERP-P-00060,Hypertension artérielle,Arachides,2017-06-13,Bernard

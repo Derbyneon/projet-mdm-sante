@@ -1,0 +1,7 @@
+﻿medecin_id_erp,nom,prenom,specialite,num_licence,email_pro,telephone_pro,service_affecte,disponibilite_lundi,disponibilite_mardi,disponibilite_mercredi,date_embauche
+MED-ERP-0001,DUBOIS,Marie,Cardiologie,754186247,marie.dubois@clinique.fr,+33 4 76 68 28 70,Cardiologie,9:00-19:00,8:00-19:00,9:00-19:00,2016-11-02
+MED-ERP-0002,MARTIN,Jean,Pédiatrie,656036433,jean.martin@clinique.fr,+33 3 70 17 30 90,Pédiatrie,8:00-19:00,8:00-18:00,8:00-18:00,2022-01-03
+MED-ERP-0003,BERNARD,Sophie,Radiologie,955339457,sophie.bernard@clinique.fr,0170803658,Radiologie,8:00-19:00,9:00-19:00,8:00-17:00,2016-11-28
+MED-ERP-0004,PETIT,Pierre,Chirurgie,296152035,pierre.petit@clinique.fr,01 56 36 42 89,Chirurgie,9:00-18:00,9:00-18:00,9:00-18:00,2022-03-28
+MED-ERP-0005,LEROY,Émilie,Gynécologie,611900549,émilie.leroy@clinique.fr,+33 (0)2 19 17 83 34,Gynécologie,8:00-18:00,8:00-19:00,8:00-19:00,2016-04-26
+MED-ERP-0006,MOREAU,Laurent,Urgences,686005578,laurent.moreau@clinique.fr,02 23 38 83 81,Urgences,9:00-17:00,8:00-17:00,8:00-18:00,2015-09-13
